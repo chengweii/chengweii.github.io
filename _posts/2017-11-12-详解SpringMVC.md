@@ -12,3 +12,6 @@ tags:
 ---
 
 # SpringMVC
+
+# 参考文献
+[Spring思维导图，让Spring不再难懂（mvc篇）](https://www.jianshu.com/p/7c4bbf1ba998)  
