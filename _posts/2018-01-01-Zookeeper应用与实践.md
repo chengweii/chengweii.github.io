@@ -134,4 +134,5 @@ ls /dubbo
 
 ### ACL(访问权限控制)
 
-
+# 参考文献
+[分布式服务框架 Zookeeper -- 管理分布式环境中的数据](https://www.ibm.com/developerworks/cn/opensource/os-cn-zookeeper/)  

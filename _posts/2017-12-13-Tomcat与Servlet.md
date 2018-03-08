@@ -13,3 +13,7 @@ tags:
 ---
 
 # Tomcat与Servlet
+
+# 参考文献
+[Tomcat 系统架构与设计模式](https://www.ibm.com/developerworks/cn/java/j-lo-tomcat1/)  
+[Servlet 工作原理解析](https://www.ibm.com/developerworks/cn/java/j-lo-servlet/)  
